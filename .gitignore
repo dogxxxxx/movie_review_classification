@@ -3,4 +3,3 @@ data/
 *.zip
 test*.py
 txt2csv.py
-key*
